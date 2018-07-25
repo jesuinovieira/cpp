@@ -1,0 +1,34 @@
+------------------------------------------------------------------
+JOGO DA VELHA - por Jesuino Vieira Filho
+Universidade Federal de Santa Catarina (Campus Joinville) - 2017/2
+Programacao III)
+------------------------------------------------------------------
+
+1. EXECUÇÃO
+
+Comandos do makefile:
+Inicialize o terminal na pasta que contém o Makefile e digite para:
+
+	Compilar o programa:
+		$ make
+
+	Executar o programa com tipo de jogo e dificuldade padrão:
+		$ make run
+
+	Para escolher o tipo de jogo:
+		Jogar contra um amigo:		$ make ARGS="1" run
+		Facil:				$ make ARGS="2 1" run
+		Intermediario:			$ make ARGS="2 2" run
+		Dificil:			$ make ARGS="2 3" run
+	
+	Remover os arquivos objetos:
+		$ make clean
+
+	Remover todos os arquivos:
+		$ make remove
+
+2. COMANDOS
+
+Para selecionar a posição que deseja marcar insira, primeiramente a linha e depois a coluna. Exemplo:
+	Linha: 2
+	Coluna: 2 
