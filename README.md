@@ -6,6 +6,6 @@ Projects developed during the Programming III (OOP) subject – third semester o
 
 :anchor: **[NavalBatlle](https://github.com/jesuinovieira/cpp/tree/master/NavalBattle)**:
 
-:vertical_traffic_light: **[TrafficSimulator](https://github.com/jesuinovieira/cpp/tree/master/Simulador)**:
+ :vertical_traffic_light: **[TrafficSimulator](https://github.com/jesuinovieira/cpp/tree/master/Simulador)**:
 
 :heavy_multiplication_x: **[TicTacToe](https://github.com/jesuinovieira/cpp/tree/master/TicTacToe)**:
