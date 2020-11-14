@@ -1,12 +1,5 @@
-------------------------------------------------------------------
-JOGO DA VELHA - por Jesuino Vieira Filho
-Universidade Federal de Santa Catarina (Campus Joinville) - 2017/2
-Programacao III)
-------------------------------------------------------------------
+# Execução
 
-1. EXECUÇÃO
-
-Comandos do makefile:
 Inicialize o terminal na pasta que contém o Makefile e digite para:
 
 	Compilar o programa:
@@ -27,8 +20,10 @@ Inicialize o terminal na pasta que contém o Makefile e digite para:
 	Remover todos os arquivos:
 		$ make remove
 
-2. COMANDOS
+# Comandos
 
-Para selecionar a posição que deseja marcar insira, primeiramente a linha e depois a coluna. Exemplo:
+Para selecionar a posição que deseja marcar insira, primeiramente a linha e depois a 
+coluna. Exemplo:
+
 	Linha: 2
 	Coluna: 2 
