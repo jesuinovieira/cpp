@@ -1,17 +1,11 @@
-# cpp
+# Programming III  
 
-Projects developed during the Programming III (OOP) subject – third semester of 
-[Mechatronics Engineering](https://mecatronica.ufsc.br/) course at Federal University of 
-Santa Catarina (UFSC).
+Projects developed during the **Programming III** course (EMB5631), focusing on object-oriented programming, in the third semester of the [Mechatronics Engineering](https://mecatronica.ufsc.br/) program at the Federal University of Santa Catarina (UFSC).
 
-:blue_car: **[arcade-race](https://github.com/jesuinovieira/cpp/tree/master/arcade-race)**: 
-arcade race game using ncurses library.
+:blue_car: **[Arcade Race](https://github.com/jesuinovieira/cpp/tree/master/arcade-race)**: arcade race game built with `ncurses` library
 
-:anchor: **[naval-batlle](https://github.com/jesuinovieira/cpp/tree/master/naval-battle)**: 
-naval battle on terminal.
+:anchor: **[Naval Battle](https://github.com/jesuinovieira/cpp/tree/master/naval-battle)**: terminal-based naval battle game
 
-:traffic_light: **[traffic-simulator](https://github.com/jesuinovieira/cpp/tree/master/traffic-simulador)**: 
-traffic simulator using Qt Creator.
+:traffic_light: **[Traffic Simulator](https://github.com/jesuinovieira/cpp/tree/master/traffic-simulador)**: traffic simulator built with Qt Creator
 
-:heavy_multiplication_x: **[tic-tac-toe](https://github.com/jesuinovieira/cpp/tree/master/tic-tac-toe)**: 
-tic-tac-toe on terminal.
+:heavy_multiplication_x: **[Tic-Tac-Toe](https://github.com/jesuinovieira/cpp/tree/master/tic-tac-toe)**: terminal-based tic-tac-toe game
