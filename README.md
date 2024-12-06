@@ -1,6 +1,6 @@
 # Programming III  
 
-Projects developed during the **Programming III** course (EMB5631), focusing on object-oriented programming, in the third semester of the [Mechatronics Engineering](https://mecatronica.ufsc.br/) program at the Federal University of Santa Catarina (UFSC).
+_Projects developed during the **Programming III** course (EMB5631), focusing on object-oriented programming, in the third semester of the [Mechatronics Engineering](https://mecatronica.ufsc.br/) program at the Federal University of Santa Catarina (UFSC)._
 
 :blue_car: **[Arcade Race](https://github.com/jesuinovieira/cpp/tree/master/arcade-race)**: arcade race game built with `ncurses` library
 
